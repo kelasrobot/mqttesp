@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For MQTTESP
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MQTTESP	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getIncomingMessage KEYWORD2
+setIncomingMessage KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+# CONSTANT	LITERAL1
