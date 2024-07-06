@@ -7,7 +7,7 @@ MQTTESP adalah library yang menyederhanakan penggunaan dari library `MQTT.h`. Ol
 **Maintainer:** Ajang Rahmat <ajangrahmat@gmail.com>  
 **Category:** Communication  
 **URL:** [MQTTESP GitHub Repository](https://github.com/mqttesp)  
-**Architectures:** All supported architectures  
+**Architectures:** ESP8266/ESP32  
 **Includes:** MQTTESP.h  
 
 ### Deskripsi Singkat
